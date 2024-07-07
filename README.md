@@ -1,5 +1,5 @@
 # SNHU-CS350
-Emerging Sys Arch &amp; Tech 2024
+Emerging Sys Arch &amp; Tech 2024 Zybook Help!
 ## 1.8 RIMS implicitly defined I/O variables: Participation Activities
 
 ### 1.8.1: RIMS B outputs and A inputs.
